@@ -1,0 +1,2 @@
+### Nas aulas de probabilidade e amostragem oferecidas no bootcamp de Data Analytics da WoMakersCode, foram abordados conceitos como os de independência e dependência, distribuições de probabilidade, teorema de limite central, amostragem e teste A/B. 
+### Neste exercício praticamos alguns destes conceitos utilizando as bibliotecas pandas, numpy e matplotlib e o módulo de estatítica da biblioteca SciPy. 
